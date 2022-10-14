@@ -5,7 +5,7 @@ Project created to serve as example on how to use Nodemon from the video on Gus 
 ## Links
 
 - [Notion Used on Video](https://guscsales.notion.site/Nodemon-6de91ea50c0f43fa92b85699a7a34960)
-- Youtube Video - Soon
+- [Youtube Video](https://youtu.be/US1Z9eYQtwU)
 
 ## Get Started
 
